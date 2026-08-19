@@ -1,22 +1,91 @@
 # InterviewSphere 🚀
 
-### Prepare. Practice. Get Hired.
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/logo.png"
+    width="180"
+    alt="InterviewSphere Logo"
+  />
+</p>
 
-InterviewSphere is a modern interview preparation platform designed to help students, freshers, developers, working professionals, and job seekers prepare confidently for their next career opportunity.
+<h3 align="center">Prepare. Practice. Get Hired.</h3>
 
-From interview questions and company-specific preparation to resume analysis, structured learning and progress tracking, InterviewSphere brings essential preparation tools together in one platform.
+<p align="center">
+  A modern interview preparation platform for students, freshers, developers,
+  working professionals and job seekers.
+</p>
+
+<p align="center">
+  <a href="https://interviewsphere.online"><strong>🌐 Visit InterviewSphere</strong></a>
+</p>
+
+---
+
+## 🚀 InterviewSphere Platform
+
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/homepage.png"
+    width="100%"
+    alt="InterviewSphere Platform"
+  />
+</p>
+
+InterviewSphere brings essential interview-preparation tools together in one platform.
+
+From interview questions and company-specific preparation to resume analysis,
+structured learning and progress tracking, candidates can build a more organized
+preparation journey.
 
 🌐 **Official Website:** https://interviewsphere.online
 
 ---
 
+# 🎬 See InterviewSphere in Action
+
+### 🇮🇳 Hinglish Product Demo
+
+Watch the InterviewSphere platform overview:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Pq0aTaYO0UE">
+    <img
+      src="https://img.youtube.com/vi/Pq0aTaYO0UE/maxresdefault.jpg"
+      width="800"
+      alt="Watch InterviewSphere Hinglish Product Demo"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Pq0aTaYO0UE">
+    ▶️ <strong>Watch InterviewSphere Hinglish Demo</strong>
+  </a>
+</p>
+
+> InterviewSphere product overview in Hinglish — built for students, freshers,
+> developers and professionals preparing for their next opportunity.
+
+---
+
 ## 🎯 What is InterviewSphere?
 
-Preparing for an interview often means switching between multiple websites for questions, company research, resume guidance, technical concepts and career resources.
+Preparing for an interview often means switching between multiple websites for
+questions, company research, resume guidance, technical concepts and career resources.
 
 InterviewSphere is designed to make that journey more structured.
 
-Candidates can practice interview questions, prepare for specific companies, improve their resumes, follow structured learning resources, save important content and track their preparation progress — all from one platform.
+Candidates can:
+
+- Practice interview questions
+- Prepare for specific companies
+- Improve their resumes
+- Follow structured learning resources
+- Save important content
+- Track preparation progress
+- Use AI-assisted preparation tools
+
+All from one platform.
 
 ---
 
@@ -41,7 +110,16 @@ Practice interview questions across multiple categories:
 
 ## 🏢 Company-Specific Interview Preparation
 
-Prepare for interviews at leading companies with dedicated company pages and preparation resources.
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/companies.png"
+    width="100%"
+    alt="InterviewSphere Company Interview Guides"
+  />
+</p>
+
+Prepare for interviews at leading companies with dedicated company pages and
+preparation resources.
 
 InterviewSphere includes resources for companies such as:
 
@@ -52,15 +130,25 @@ InterviewSphere includes resources for companies such as:
 - Apple
 - And many more
 
-Candidates can explore company-focused interview questions and understand the types of topics they should prepare for.
+Candidates can explore company-focused interview questions and understand the
+types of topics they should prepare for.
 
 ---
 
 ## 🗺️ Structured Learning Paths
 
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/learning-paths.png"
+    width="100%"
+    alt="InterviewSphere Learning Paths"
+  />
+</p>
+
 Follow organized learning paths instead of randomly jumping between topics.
 
-Learning paths help candidates prepare systematically for specific technologies, roles and career goals.
+Learning paths help candidates prepare systematically for specific technologies,
+roles and career goals.
 
 ---
 
@@ -77,17 +165,35 @@ Resume analysis can help check:
 - Areas for improvement
 - Overall resume readiness
 
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/resume.png"
+    width="100%"
+    alt="InterviewSphere Learning Paths"
+  />
+</p>
+
 ---
 
 ## 🤖 AI-Assisted Preparation
 
-InterviewSphere incorporates AI-assisted tools to make preparation more interactive and personalized.
+InterviewSphere incorporates AI-assisted tools to make preparation more interactive
+and personalized.
 
-AI can complement structured interview preparation by helping candidates practice, understand concepts and improve their responses.
+AI can complement structured interview preparation by helping candidates practice,
+understand concepts and improve their responses.
 
 ---
 
 ## 📊 Progress Tracking
+
+<p align="center">
+  <img
+    src="https://aecpzxpaatzdgs2q.public.blob.vercel-storage.com/dashboard.png"
+    width="100%"
+    alt="InterviewSphere Dashboard and Progress Tracking"
+  />
+</p>
 
 Track your preparation over time.
 
@@ -99,7 +205,8 @@ Monitor:
 - Preparation activity
 - Completed resources
 
-This makes it easier to stay consistent and understand how much preparation you've completed.
+This makes it easier to stay consistent and understand how much preparation
+you've completed.
 
 ---
 
@@ -129,7 +236,7 @@ Explore practical resources covering topics such as:
 
 ---
 
-## 🎯 Preparation for Different Candidates
+## 🎯 Built for Different Candidates
 
 InterviewSphere is designed for:
 
@@ -150,7 +257,8 @@ InterviewSphere follows a **freemium model**.
 
 Candidates can start preparing with free resources available across the platform.
 
-Free access is designed to let users explore InterviewSphere and begin meaningful interview preparation without requiring a premium subscription.
+Free access is designed to let users explore InterviewSphere and begin meaningful
+interview preparation without requiring a premium subscription.
 
 ## 👑 InterviewSphere Premium
 
@@ -174,11 +282,13 @@ For current plans, features and pricing:
 
 InterviewSphere isn't designed to be only another interview-question website.
 
-The goal is to bring the different stages of interview preparation into one connected experience:
+The goal is to bring the different stages of interview preparation into one
+connected experience:
 
-**Learn → Practice → Improve → Track → Prepare**
+### Learn → Practice → Improve → Track → Prepare
 
-Instead of using separate platforms for every part of preparation, candidates can build a more organized preparation workflow with InterviewSphere.
+Instead of using separate platforms for every part of preparation, candidates can
+build a more organized preparation workflow with InterviewSphere.
 
 ---
 
@@ -186,9 +296,10 @@ Instead of using separate platforms for every part of preparation, candidates ca
 
 Our mission is to make high-quality interview preparation:
 
-**Accessible • Structured • Practical • Effective**
+### Accessible • Structured • Practical • Effective
 
-We want candidates to spend less time figuring out where to prepare and more time actually preparing.
+We want candidates to spend less time figuring out where to prepare and more time
+actually preparing.
 
 ---
 
@@ -211,8 +322,12 @@ https://github.com/InterviewSphere
 
 ---
 
-# 🚀 InterviewSphere
+<p align="center">
+  <strong>InterviewSphere 🚀</strong>
+</p>
 
-### Prepare. Practice. Get Hired.
+<h3 align="center">Prepare. Practice. Get Hired.</h3>
 
-Building a smarter and more structured way to prepare for your next career opportunity.
+<p align="center">
+  Building a smarter and more structured way to prepare for your next career opportunity.
+</p>
